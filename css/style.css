@@ -1,0 +1,40 @@
+
+.web{
+	color: green
+}
+.card {
+	border:solid 1px black; padding:5px;
+	margin:5px;
+	flex:1;
+	order: 1;
+
+}
+.card1 {
+	border:solid 1px black; padding:5px;
+	margin:5px;
+	flex:1;
+	order: 3;
+}
+.card2{
+border:solid 1px black; padding:5px;
+	margin:5px;
+	flex:1;
+	order: 2;
+}
+.main-div{
+ display:flex;
+ flex-direction: row-reverse;
+ justify-content: center;
+ flex-wrap:wrap;
+
+}
+
+@media screen and (min-width: 426px) and (max-width: 750px) {
+
+.min-div{
+		display:flex;
+		flex-direction: column;
+ background-color: #2ECC71;
+
+	}
+}
