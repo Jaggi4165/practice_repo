@@ -1,0 +1,24 @@
+{
+ "details":{
+  "name":"Apssdc",
+  "age":5,
+  "courses":["webdesign using ReactJs","python","data analysis"]
+ },
+ "trainers":[
+  {
+        "name":"D.Sairam",
+        "phone":99990000,
+        "email":"sairam.d@apssdc.in"
+  },
+  {
+         "name":"K.Swami",
+        "phone":9999988888,
+        "email":"swami.k@apssdc.in"
+  },
+  {
+       "name":"G.K.Raja",
+        "phone":9988669999,
+        "email":"raja.gk@apssdc.in"
+  }
+ ]
+}

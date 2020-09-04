@@ -1,0 +1,24 @@
+{
+	"details":{
+		"name":"apssdc",
+		"age":5,
+	"courses":["html,css,javascript"]
+	},
+	"trainer":[
+			{
+				"name":"sairam",
+				"age":30,
+				"email":"sairam@gmail.com"
+			},
+			{
+				"name":"swamy",
+				"age":29,
+				"email":"swamy@gmail.com"
+			},
+			{
+				"name":"g.k.raja",
+				"age":48,
+				"email":"raju@gmail.com"
+			}
+		]
+}
