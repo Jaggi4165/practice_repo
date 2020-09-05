@@ -1,0 +1,11 @@
+/*#age-id{
+	background-color: red
+}
+h1{
+	background-color: :#111;
+	color:red;
+}*/
+table,tr,td {
+	border:2px solid #000;
+	border-collapse: collapse;
+}

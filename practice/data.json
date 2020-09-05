@@ -2,6 +2,7 @@
  "details":{
   "name":"Apssdc",
   "age":5,
+  "photo":"practice_repo/author-image2.jpg",
   "courses":["webdesign using ReactJs","python","data analysis"]
  },
  "trainers":[
