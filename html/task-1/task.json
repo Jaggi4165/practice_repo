@@ -1,0 +1,28 @@
+{
+ "details":{
+
+  "name":"Jagadeeswara rao",
+  "age":24,
+  "photo":"author-image1.jpg",
+  "courses":["webdesign using ReactJs","python","data analysis"],
+  "language":["Telugu","English","Hindi"],
+  "family":[
+    {"father":"ramana"},
+    {"mother":"sakuntala"},
+    {"sister":"kalyani"}
+            ]
+ },
+ "details1":{
+
+  "name":"Govinda rao",
+  "age":27,
+  "photo":"author-image2.jpg",
+  "courses":["webdesign using ReactJs","python","data analysis"],
+  "language":["Telugu","English","Hindi"],
+  "family":[
+    {"father":"ramana"},
+    {"mother":"sakuntala"},
+    {"sister":"kalyani"}
+            ]
+ }
+ }

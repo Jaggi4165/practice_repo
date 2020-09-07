@@ -1,0 +1,19 @@
+#heading1 { color:green; }
+#heading { 
+	color:red; 
+	text-align: center; 
+	text-decoration: underline; }
+img{
+	height:200px;
+	width:250px;
+	border:2px solid green;
+}
+
+#btn1 {
+	height: 30px;
+	width:75px;
+
+}
+body{
+	text-align: center;
+}
